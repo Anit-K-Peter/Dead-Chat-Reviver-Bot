@@ -1,0 +1,21 @@
+{
+  "name": "deadchatreviver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "chat",
+    "reviver"
+  ],
+  "author": "Anit", 
+  "license": "ISC",
+  "description": "A Discord bot that monitors a specific channel for activity and sends reminders to encourage conversation when it becomes inactive.",
+  "dependencies": {
+    "discord.js": "^14.16.3"
+  }
+}
